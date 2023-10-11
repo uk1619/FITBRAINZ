@@ -1,0 +1,60 @@
+
+
+
+.middle-container {
+    margin: 25px 0;
+    margin-left: 25px;
+    
+}
+.intro {
+    width: 75%;
+    margin: auto;
+}
+.joy{
+    width: 50%;
+}
+.skill-row{
+    width: 50%;
+}
+
+.review{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-right: 100px;
+}
+
+.r-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-right: 100px;
+    margin-left: 30px;
+}
+.review .reviwer-info{
+    align-items: center;
+    flex: 1;
+}
+.r-img2{
+    width: 10%;
+    float: right;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.intro {
+    font-size: 1.5rem;
+}
+
+.p {
+    line-height: 2;
+}
+.minimal{
+    background-color: #6cbfcf;
+}
+hr {
+    border: dotted rgb(235, 229, 229) 10px;
+    border-bottom: none;
+    width: 10%;
+}
