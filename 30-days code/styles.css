@@ -1,0 +1,23 @@
+body{
+    background-image:url("./assets/play.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-top: 40%;
+    width: 300px;
+    height: 90px;
+}
+
+.text-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+}
+
+h1 {
+    font-size: 24px;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
