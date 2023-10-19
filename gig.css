@@ -1,0 +1,143 @@
+*{
+    color: whitesmoke;
+    background-color: #292524;
+}
+
+/* .days30{
+    margin-left: auto;
+    margin-left: auto;
+} */
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo1{
+    display: flex;
+}
+
+.logo{
+    border-radius: 63px;
+}
+
+.heading{
+    /* background-color:rgb(255, 0, 0); */
+    color: whitesmoke(255, 247, 0);
+    text-transform: capitalize;
+    font-size: 49px;
+    margin-left: 20px;
+}
+
+.box{
+    display: flex;
+    margin-left: 100px;
+    align-items: center;
+    background-color: #44403c;
+    justify-content: space-between;
+    border: 1px black solid;
+    /* background-color: blanchedalmond; */
+    margin-bottom: 5px;
+    margin-left: 6px;
+}.day{
+    text-align: center;
+    margin-left: 50px;
+}
+.image{
+    align-items: flex-end;
+}
+
+.checkbox{
+    display: inline-block;
+    /* background-color: inherit; */
+    font-size: 21px;
+}
+
+.text{
+    width: 40%;
+    background-color: inherit;
+    font-size: 21px;
+}
+
+.btn{
+    border-radius: 5px;
+    font-size: 35px;
+    cursor: pointer;
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(135deg, #3b82f6,#ef4444,#16a34a,#eab038);
+    border: none;
+}
+
+.btn:hover{
+    text-decoration: wavy;
+    transition: 0.1s;
+    color: darkblue;
+}
+
+.btn:visited{
+    color:black;
+    background-image: linear-gradient(135deg, #3b82f6);
+    
+}
+
+.position{
+    position: fixed;
+    bottom: 4px;
+    margin-left: 1274px;
+
+}
+.txt{
+    font-weight: bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color:rgb(237, 106, 106);
+    background-color: inherit;
+}
+
+.note{
+    font-size: 20px;
+    width: 56%;
+    margin: 25px 290px;
+}
+
+.expert{
+    font-size: 30px;    
+    margin-bottom: 25px;
+    margin-top: 25px;
+    margin-right: 20px;
+    border-radius: 26px;
+    width: 14%;
+    text-decoration: none;
+    background-color: none;
+}
+
+.none{
+    text-decoration-line: none;
+    text-decoration-color: none;
+    background-color: unset;
+}
+
+.none:visited{
+    color: #16a34a;
+}
+
+.none:hover{
+    color:yellowgreen;
+    transition:0.1s;
+}
+
+/* .banner{
+} */
+
+.whole{
+    display: flex;
+}
+
+.navbar{
+    width: 100%;
+}
+
+.bannerd{
+    margin-bottom: 500px;
+}
