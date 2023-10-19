@@ -19,6 +19,4 @@ Our project "FitBrainz" provides multiple routes to have a stress-free mind and 
 
 ## :maple_leaf: [Click here](https://drive.google.com/file/d/1lNerx0Hcoi9Kiufd_Wip2xwBn8gr5LQK/view) to view Presentation
 
-## :maple_leaf: [Click here](https://www.youtube.com/watch?v=k19DwQau7DE) to view Video
-
 ## :maple_leaf: [Click here](https://rohitbhat1603.github.io/Swasthyam/) to view our project
