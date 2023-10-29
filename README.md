@@ -20,3 +20,5 @@ Our project "FitBrainz" provides multiple routes to have a stress-free mind and 
 ## :maple_leaf: [Click here](https://docs.google.com/presentation/d/1-058fUoy3TjdVmxmKnoN1n7pUxbeeMcP/edit?usp=drivesdk&ouid=115186810249859925360&rtpof=true&sd=true) to view Presentation
 
 ## :maple_leaf: [Click here](https://uk1619.github.io/FITBRAINZ/index.html) to view our project
+
+## :maple_leaf: [Click here](https://drive.google.com/file/d/1-10tjz-R3RJgPzpJZrcj-6ECukvsbRDB/view?usp=drivesdk) to view our project report
